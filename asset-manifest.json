@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/assignment4/static/css/main.1b2aa3b0.chunk.css",
-    "main.js": "/assignment4/static/js/main.39d488f1.chunk.js",
-    "main.js.map": "/assignment4/static/js/main.39d488f1.chunk.js.map",
-    "runtime-main.js": "/assignment4/static/js/runtime-main.0fb1e853.js",
-    "runtime-main.js.map": "/assignment4/static/js/runtime-main.0fb1e853.js.map",
-    "static/js/2.8e3112d8.chunk.js": "/assignment4/static/js/2.8e3112d8.chunk.js",
-    "static/js/2.8e3112d8.chunk.js.map": "/assignment4/static/js/2.8e3112d8.chunk.js.map",
-    "index.html": "/assignment4/index.html",
-    "static/css/main.1b2aa3b0.chunk.css.map": "/assignment4/static/css/main.1b2aa3b0.chunk.css.map",
-    "static/js/2.8e3112d8.chunk.js.LICENSE.txt": "/assignment4/static/js/2.8e3112d8.chunk.js.LICENSE.txt"
+    "main.css": "/Balakumar_ME20B043/static/css/main.1b2aa3b0.chunk.css",
+    "main.js": "/Balakumar_ME20B043/static/js/main.39d488f1.chunk.js",
+    "main.js.map": "/Balakumar_ME20B043/static/js/main.39d488f1.chunk.js.map",
+    "runtime-main.js": "/Balakumar_ME20B043/static/js/runtime-main.52e65c9b.js",
+    "runtime-main.js.map": "/Balakumar_ME20B043/static/js/runtime-main.52e65c9b.js.map",
+    "static/js/2.8e3112d8.chunk.js": "/Balakumar_ME20B043/static/js/2.8e3112d8.chunk.js",
+    "static/js/2.8e3112d8.chunk.js.map": "/Balakumar_ME20B043/static/js/2.8e3112d8.chunk.js.map",
+    "index.html": "/Balakumar_ME20B043/index.html",
+    "static/css/main.1b2aa3b0.chunk.css.map": "/Balakumar_ME20B043/static/css/main.1b2aa3b0.chunk.css.map",
+    "static/js/2.8e3112d8.chunk.js.LICENSE.txt": "/Balakumar_ME20B043/static/js/2.8e3112d8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0fb1e853.js",
+    "static/js/runtime-main.52e65c9b.js",
     "static/js/2.8e3112d8.chunk.js",
     "static/css/main.1b2aa3b0.chunk.css",
     "static/js/main.39d488f1.chunk.js"
